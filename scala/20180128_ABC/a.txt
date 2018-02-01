@@ -1,0 +1,11 @@
+object Main {
+  def main(args:Array[String]): Unit = {
+    var X = readInt()
+    var A = readInt()
+    val B = readInt()
+    X -= A
+    X -= (X/B) * B
+    println(X)
+  }
+}
+
