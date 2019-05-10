@@ -49,3 +49,7 @@ venv
 .venv
 
 share
+
+# jupyter-scala
+almond
+coursier
